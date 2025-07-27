@@ -1,2 +1,2 @@
 # Sukon
-AgenAI 
+bitcoinAI18.py
