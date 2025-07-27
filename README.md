@@ -1,2 +1,2 @@
 # Sukon
-bitcoinAI18.py
+app.py
